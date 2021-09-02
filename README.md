@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akbartyu
+- 👀 I’m a React Developer
+- 🌱 I’m currently learning Azure
+- 📫 How to reach me: send me a PM
